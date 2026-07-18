@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 18 号添加
 
+#### EthanYoQ - [Github](https://github.com/EthanYoQ)
+* :white_check_mark: [AgentHive](https://github.com/EthanYoQ/AgentHive/releases/latest)：Windows 桌面版 AI 圆桌工作台，把业务问题丢给可配置的产品、市场、反方、总结 Agent 同场推演，自动输出结论、风险点和待验证假设，用于决策压测和证据整理（默认角色需自行安装并登录 Codex CLI / Claude Code CLI） - [查看仓库](https://github.com/EthanYoQ/AgentHive)
+
 #### ctan0(成都)
 * :white_check_mark: [寇泰凌工具站](https://www.ctan0.top/)：常用工具一站打包，持续更新中
 
